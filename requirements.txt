@@ -6,3 +6,4 @@ seaborn
 plotly
 pyodbc
 python-dotenv
+statsmodels
